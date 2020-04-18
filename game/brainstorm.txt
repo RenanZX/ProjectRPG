@@ -1,0 +1,10 @@
+BrainStorm
+
+- RPG com sistema de batalha action-rpg
+- StoryTelling
+- Sistema de Transição
+- Personagens e NPCs
+- Cenários do jogo(Cidades, mundo, etc)
+- Sistema de GameOver
+- Suporte a GamePad - feito
+- Menu,pause e Opções
