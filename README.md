@@ -1,2 +1,2 @@
 # ProjectRPG
-RPG game realeased in c++ with raylib
+RPG game done in c++ with raylib
